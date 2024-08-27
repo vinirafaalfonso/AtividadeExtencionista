@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  flex: 1;
+}
+
+header {
+  background-color: orange;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  border: solid 2px black;
+}
+
+.titulo-header {
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 2px black;
+}
+/********************************************************************************************************* */
+
+body {
+  background-color: rgb(207, 80, 80);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.drug-section-titulo-final {
+  margin: 10px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 0px;
+  background-color: rgb(216, 233, 253);
+}
+
+.drug-section-titulo {
+  margin: 10px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 0px;
+  background-color: rgb(216, 233, 253);
+}
+
+.titulo-botao {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+ul {
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+/*************************************************************************************************************/
+footer {
+  background-color: orange;
+  padding: 20px;
+  color: white;
+  text-shadow: 0px 0px 2px black;
+  text-align: center;
+  border: solid 2px black;
+}
+
+footer a {
+  color: rgb(5, 13, 240);
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+  color: red;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.contBotao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.botão {
+  display: inline-block;
+  padding: 20px 50px;
+  margin: 10px;
+  font-size: 16px;
+  color: white;
+  background-color: orange;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.botão:hover {
+  background-color: darkorange;
+}
