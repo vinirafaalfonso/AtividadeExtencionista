@@ -4,5 +4,5 @@ Página Inicial
 → Crack (Botão) → Página sobre Crack
 → Cigarro (Botão) → Página sobre Cigarro
 → Álcool (Botão) → Página sobre Álcool
-→ Formulário de Feedback (Botão) → Página de Contato
+→ Redirecionamento para suporte → Página de Ajuda 
 → Caso precise retornar à pagina inicial, selecionar o botão de 'Home', localizado no canto superior esquerdo.
